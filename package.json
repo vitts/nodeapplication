@@ -1,13 +1,13 @@
 {
-  "name": "vitt_findcaptain",
-  "version": "1.0.0",
-  "description": "This is sample package which will give captains name by iso country code",
+  "name": "vitts-cwc-findcaptain",
+  "version": "0.0.1",
+  "description": "This package is used to find out captains name of cricket world cup 2019 squads by iso country code",
   "main": "./lib/index.js",
   "scripts": {
     "test": "\t"
   },
   "keywords": [
-    "worldcup 2019,Teams Captains,By Country,Cricket,Sports"
+    "Cricket World Cup 2019,Captain,Cricket,Sports"
   ],
   "author": "vitts",
   "license": "ISC",
@@ -17,5 +17,13 @@
   "dependencies": {
     "latest-version": "^5.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitts/nodeapplication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitts/nodeapplication/issues"
+  },
+  "homepage": "https://github.com/vitts/nodeapplication#readme"
 }

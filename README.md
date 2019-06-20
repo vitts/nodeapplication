@@ -1,4 +1,4 @@
-This package is sample package which will used to find out CRICKET World Cup 2019 squads captain by passing ISO country code
+This is my first package. It used to find out Cricket World Cup  2019 squads captain by passing ISO country code
 
 Pass the ISO country code @findCaptain method to find out captain of world cup 2019 squads
 
