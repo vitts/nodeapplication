@@ -1,6 +1,6 @@
 {
   "name": "vitts-cwc-findcaptain",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package is used to find out the skipper of cricket world cup by iso country code and year held",
   "main": "./lib/index.js",
   "scripts": {
