@@ -1,13 +1,13 @@
 {
   "name": "vitts-cwc-findcaptain",
-  "version": "0.0.1",
-  "description": "This package is used to find out captains name of cricket world cup 2019 squads by iso country code",
+  "version": "0.0.2",
+  "description": "This package is used to find out the skipper of cricket world cup by iso country code and year held",
   "main": "./lib/index.js",
   "scripts": {
     "test": "\t"
   },
   "keywords": [
-    "Cricket World Cup 2019,Captain,Cricket,Sports"
+    "Cricket World Cup,Captain,Cricket,Sports"
   ],
   "author": "vitts",
   "license": "ISC",

@@ -7,4 +7,4 @@
  */
 
 var  dataModel = require('./lib/index');
-console.log(dataModel.findCaptain('IND').c);  
+console.log(dataModel.findCaptain('IND',1999));  
